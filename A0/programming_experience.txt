@@ -1,0 +1,14 @@
+Harpreet Sahota
+CS 261 Data Structures
+Assignment 0 Programming Experience
+10/03/23
+
+What programming languages do you know?
+How many years experience do you have with each?
+For each language, which IDEs have you used?
+What programming-related classes have you taken?
+
+I've learned Python recently from CS161 and CS162 in the last two quarters and Javascript in a Bootcamp course about a
+year ago. Therefore, my experience is very limited and at the beginner stage of approximately less than 6 months. I have
+ only worked with Visual Studio Code and Pycharm. I have taken then into CS161/CS162 courses already, but alongside this
+  course, I am taking CS290 Web Development where we will be working more in Visual Studio Code.
